@@ -1,7 +1,7 @@
 # ofxFaceParam
 Scale Parameters Selection using mouse move for Image Face Detection.
 
-![example]( https://github.com/bemoregt/ofxFaceParam/blob/master/test.png "Example Screenshot")
+![example]( https://github.com/bemoregt/ofxFaceParam/blob/master/test2.jpg "Example Screenshot")
 
 ### Dependency
 - OpenFrameworks 0.10.1
