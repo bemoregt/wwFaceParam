@@ -50,7 +50,7 @@ void ofApp::draw(){
     ofSetColor(255);
 
     ofDrawBitmapString("MinSizeScale = " + ofToString(minScale), 20, 30);
-    ofDrawBitmapString("MinSizeScale = " + ofToString(maxScale), 20, 50);
+    ofDrawBitmapString("MaxSizeScale = " + ofToString(maxScale), 20, 50);
 }
 
 //--------------------------------------------------------------
@@ -67,7 +67,7 @@ void ofApp::keyReleased(int key){
 void ofApp::mouseMoved(int x, int y ){
 
     minScale= x/img1.getWidth();
-    maxScale= x/img1.getHeight();
+    maxScale= y/img1.getHeight();
 }
 
 //--------------------------------------------------------------
