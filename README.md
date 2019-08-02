@@ -1,4 +1,4 @@
-# ofxFaceParam
+# wwFaceParam
 Scale Parameters Selection using mouse move for Image Face Detection.
 
 ![example]( https://github.com/bemoregt/ofxFaceParam/blob/master/test2.jpg "Example Screenshot")
